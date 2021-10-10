@@ -1,0 +1,7 @@
+# ninja log v5
+1	2997	6552695174169007	CMakeFiles/TheFirstTask.dir/ship.cpp.obj	eaa1139422e33457
+31	3051	6552695174159000	CMakeFiles/TheFirstTask.dir/transport.cpp.obj	6ae4c86d8f6977d1
+6	3060	6552695174239015	CMakeFiles/TheFirstTask.dir/train.cpp.obj	ba9e0c04bea1447d
+21	3061	6552695174159000	CMakeFiles/TheFirstTask.dir/airplane.cpp.obj	a604b4fc074d9667
+16	3071	6552695174208992	CMakeFiles/TheFirstTask.dir/container.cpp.obj	b286935b8365591a
+25	3073	6552695174879028	CMakeFiles/TheFirstTask.dir/main.cpp.obj	ebc410b5c8073d1a
