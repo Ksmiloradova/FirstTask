@@ -1,4 +1,0 @@
-Start
-Incorrect transport!
-Stop
-Total time = 0.001833 seconds
